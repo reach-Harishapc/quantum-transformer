@@ -67,7 +67,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Quantum AI Team
-Lead Developer: Harisha P C
+
+Quantum AI Team: Harisha P C
 Email: reach.harishapc@gmail.com
 website: www.harishapc.com
