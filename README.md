@@ -2,6 +2,9 @@
 
 Quantum Transformer is a specialized framework designed for the development and deployment of quantum-inspired artificial intelligence models. It extends the standard Transformer architecture by integrating quantum gate simulations as a mechanism for attention and feature transformation, providing a novel approach to sequence modeling and representation learning.
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/btVQvQEKVWM/maxresdefault.jpg)](https://youtu.be/btVQvQEKVWM)
 ## Overview
 
 The core objective of the Quantum Transformer project is to provide researchers and developers with a robust toolset for building pre-trained Quantum AI models. By mapping quantum circuit operations (such as rotation gates and entanglement simulations) onto neural network layers, the framework achieves high-fidelity signal processing that mirrors quantum state evolution.
