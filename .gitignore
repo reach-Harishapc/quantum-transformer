@@ -1,0 +1,25 @@
+# Private Development Folders
+backend/
+build_scripts/
+track.md
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# Models and Data
+models/
+data/
+*.pt
+*.json
