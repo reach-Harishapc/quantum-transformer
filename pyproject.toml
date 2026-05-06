@@ -24,8 +24,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/quantum-transformer"
-"Bug Tracker" = "https://github.com/yourusername/quantum-transformer/issues"
+"Homepage" = "https://github.com/reach-Harishapc/quantum-transformer"
+"Bug Tracker" = "https://github.com/reach-Harishapc/quantum-transformer/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
